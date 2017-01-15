@@ -9,6 +9,7 @@ Examples includes:
 * Handling HTTP Client Errors
 * Asynchronous HTTP Requests
 * Netflix’s Zuul
+* HTTP Connection Pool
 
 
 ## Book URL
